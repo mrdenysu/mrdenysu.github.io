@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3f11bfa-b0b7-4d2e-8ba0-ace2581ecbb9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/#source/about.kit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#source/index.kit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#source/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#source/projects.kit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#source/scss/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#source/view/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#source/view/left-aside.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#source/view/right-aside.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#source/view/script.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/main.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/harmonyos-sans.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans_Black.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans_Black.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans_Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans_Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans_Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans_Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans_Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans_Medium.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans_Thin.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans_Thin.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/stylesheet.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="260d6xAnz7q1iMjVQYJORBEhluL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\coder\Documents\GitHub\mrdenysu.github.io\#source\view" />
+      <recent name="C:\Users\coder\Documents\GitHub\mrdenysu.github.io\#source" />
+      <recent name="C:\Users\coder\Documents\GitHub\mrdenysu.github.io\#source\js" />
+      <recent name="C:\Users\coder\Documents\GitHub\mrdenysu.github.io\src\partials" />
+      <recent name="C:\Users\coder\Documents\GitHub\mrdenysu.github.io\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3f11bfa-b0b7-4d2e-8ba0-ace2581ecbb9" name="Changes" comment="" />
+      <created>1646564275780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646564275780</updated>
+      <workItem from="1646564277716" duration="578000" />
+      <workItem from="1646564892682" duration="11463000" />
+      <workItem from="1646579344514" duration="11023000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
