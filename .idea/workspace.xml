@@ -4,44 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3f11bfa-b0b7-4d2e-8ba0-ace2581ecbb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/#source/about.kit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#source/index.kit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#source/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#source/projects.kit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#source/scss/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#source/view/head.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#source/view/left-aside.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#source/view/right-aside.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#source/view/script.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/main.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/harmonyos-sans.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="a3f11bfa-b0b7-4d2e-8ba0-ace2581ecbb9" name="Changes" comment="V1">
+      <change afterPath="$PROJECT_DIR$/assets/icon/android-icon-192x192-seochecker-manifest-3807.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon/apple-icon-114x114-seochecker-manifest-3807.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon/apple-icon-120x120-seochecker-manifest-3807.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon/apple-icon-144x144-seochecker-manifest-3807.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon/apple-icon-152x152-seochecker-manifest-3807.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon/apple-icon-180x180-seochecker-manifest-3807.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon/apple-icon-57x57-seochecker-manifest-3807.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon/apple-icon-60x60-seochecker-manifest-3807.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon/apple-icon-72x72-seochecker-manifest-3807.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon/apple-icon-76x76-seochecker-manifest-3807.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon/favicon-16x16-seochecker-manifest-3807.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon/favicon-32x32-seochecker-manifest-3807.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon/favicon-96x96-seochecker-manifest-3807.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offline.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/sw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sw.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#source/about.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/about.kit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#source/index.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.kit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#source/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/#source/projects.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/offline.kit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#source/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#source/view/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/#source/view/left-aside.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/left-aside.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#source/view/right-aside.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/right-aside.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#source/view/script.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/script.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans_Black.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans_Black.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans_Bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans_Bold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans_Light.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans_Light.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans_Medium.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans_Medium.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans_Thin.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/HarmonyOS_Sans_Thin.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/demo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prepros.config" beforeDir="false" afterPath="$PROJECT_DIR$/prepros.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,14 +94,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\coder\Documents\GitHub\mrdenysu.github.io\src" />
+      <recent name="C:\Users\coder\Documents\GitHub\mrdenysu.github.io\assets\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\coder\Documents\GitHub\mrdenysu.github.io\#source\view" />
       <recent name="C:\Users\coder\Documents\GitHub\mrdenysu.github.io\#source" />
@@ -117,8 +125,18 @@
       <updated>1646564275780</updated>
       <workItem from="1646564277716" duration="578000" />
       <workItem from="1646564892682" duration="11463000" />
-      <workItem from="1646579344514" duration="11023000" />
+      <workItem from="1646579344514" duration="11808000" />
+      <workItem from="1646613998679" duration="5695000" />
+      <workItem from="1646626459657" duration="9989000" />
     </task>
+    <task id="LOCAL-00001" summary="V1">
+      <created>1646590476745</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646590476745</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +155,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="V1" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -3,9 +3,9 @@
 // Config
 $black: #414141;
 $white: #fefefe;
-$dirty-white: #a6a6a6;
+$dirty-white: #d7d7d7;
 $opacity-black: #00000033;
-$dirty-opacity-black: #0000007e;
+$dirty-opacity-black: #00000099;
 
 html, body {
   margin: 0;
@@ -124,19 +124,21 @@ p {
 
 // Content
 main {
-  min-width: 600px;
+  overflow-y: hidden;
+  background-color: $white;
+  max-width: 800px;
   width: 100%;
+  height: 100vh;
   padding: 24px 32px 32px;
 }
 
-
 // Right aside
 .right-aside {
-  width: calc(100% - 386px);
+  width: calc(100% - 320px);
 }
 
 // Tablet
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 840px) {
   .container {
     flex-direction: column;
   }
@@ -156,6 +158,8 @@ main {
   }
 
   main {
+    overflow-y: unset;
+    height: max-content;
     min-width: 100%;
   }
 
@@ -164,7 +168,27 @@ main {
   }
 }
 
-// Locale
-.ru, .en {
-  display: none;
+@media screen and (min-width: 841px) {
+  main {
+    &:hover {
+      overflow-y: auto;
+      overflow-x: hidden;
+      -webkit-overflow-scrolling: touch;
+      -moz-overflow-scrolling: touch;
+      -ms-overflow-scrolling: touch;
+      -o-overflow-scrolling: touch;
+      overflow-scrolling: touch;
+    }
+
+    &::-webkit-scrollbar {
+      -webkit-appearance: none;
+      width: 7px;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      border-radius: 2px;
+      background-color: rgba(0, 0, 0, 0.5);
+      -webkit-box-shadow: 0 0 1px rgba(255, 255, 255, 0.5);
+    }
+  }
 }
