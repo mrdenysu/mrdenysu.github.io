@@ -2,29 +2,26 @@ document.addEventListener("DOMContentLoaded", main);
 
 /* Main */
 async function main() {
-  await registerServiceWorker()
-  menu()
+  if (!(location.href.includes("localhost")))
+    await registerServiceWorker();
+  else
+    await unregisterServiceWorker();
+
+  await menu()
+  await age()
 }
 
 /* Utils */
-function menu() {
+async function menu() {
   document.querySelectorAll("a.navbar-menu__item").forEach((el) => {
     if (el.href === window.location.href) el.classList.toggle("navbar-menu__item_active");
   })
 }
 
-function language(lang_default = "ru") {
-  const lang = navigator.language ?? navigator.userLanguage;
-  const content = []
 
-  if (lang.includes(lang_default))
-    content.push(...document.querySelectorAll(".ru"))
-  else
-    content.push(...document.querySelectorAll(".en"))
-
-  content.forEach(el => {
-    el.style.display = "block";
-  })
+async function age() {
+  const b = document.querySelector(".age")
+  if (b != null) document.querySelector(".age").textContent = `${new Date().getFullYear() - 2002}`;
 }
 
 async function registerServiceWorker() {
@@ -40,3 +37,10 @@ async function registerServiceWorker() {
   }
 }
 
+async function unregisterServiceWorker() {
+  navigator.serviceWorker.getRegistrations().then(function (registrations) {
+    for (let registration of registrations) {
+      registration.unregister()
+    }
+  })
+}

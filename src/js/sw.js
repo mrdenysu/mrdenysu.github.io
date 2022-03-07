@@ -1,4 +1,4 @@
-const version = "1.0.3-" + Math.round(Math.random() * 100);
+const version = "1.0.4"
 const assetsUrls = [
   // Pages
   "/index.html", "/about.html", "/offline.html",
@@ -10,8 +10,10 @@ const assetsUrls = [
   "/assets/img/3.jpg", "/assets/img/logo.svg", "/assets/img/favicon.ico",
 ];
 
-const staticCacheName = `s-${version}`;
-const dynamicCacheName = `d-${version}`;
+let _version = version;
+if (location.href.includes("localhost")) _version += "-dev:" + Math.round(Math.random() * 100);
+const staticCacheName = `s-${_version}`;
+const dynamicCacheName = `d-${_version}`;
 
 self.addEventListener('install', async (event) => {
   console.log("{SW}: install");
@@ -39,6 +41,8 @@ self.addEventListener('fetch', async (event) => {
 
   if (url.origin === location.origin)
     event.respondWith(cacheFirst(request))
+  else if (_version !== version)
+    event.respondWith(network(request));
   else
     event.respondWith(networkFirst(request));
 });
@@ -58,5 +62,13 @@ async function networkFirst(request) {
     const cachedResponse = await cache.match(request);
 
     return cachedResponse ?? await caches.match("/offline.html");
+  }
+}
+
+async function network(request) {
+  try {
+    return await fetch(request);
+  } catch (e) {
+    console.error(e)
   }
 }
