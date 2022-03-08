@@ -5,22 +5,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3f11bfa-b0b7-4d2e-8ba0-ace2581ecbb9" name="Changes" comment="V1.0.3">
+      <change afterPath="$PROJECT_DIR$/assets/img/1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/HarmonyOS_Sans.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HarmonyOS_Sans.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/HarmonyOS_Sans.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HarmonyOS_Sans.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/HarmonyOS_Sans_Black.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HarmonyOS_Sans_Black.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/HarmonyOS_Sans_Black.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HarmonyOS_Sans_Black.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/HarmonyOS_Sans_Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HarmonyOS_Sans_Bold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/HarmonyOS_Sans_Bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HarmonyOS_Sans_Bold.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/HarmonyOS_Sans_Light.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HarmonyOS_Sans_Light.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/HarmonyOS_Sans_Light.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HarmonyOS_Sans_Light.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/HarmonyOS_Sans_Medium.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HarmonyOS_Sans_Medium.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/HarmonyOS_Sans_Medium.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HarmonyOS_Sans_Medium.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/HarmonyOS_Sans_Thin.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HarmonyOS_Sans_Thin.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/HarmonyOS_Sans_Thin.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/HarmonyOS_Sans_Thin.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/harmonyos-sans.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/harmonyos-sans.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/android-icon-192x192-seochecker-manifest-3807.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/apple-icon-114x114-seochecker-manifest-3807.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/apple-icon-120x120-seochecker-manifest-3807.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/apple-icon-144x144-seochecker-manifest-3807.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/apple-icon-152x152-seochecker-manifest-3807.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/apple-icon-180x180-seochecker-manifest-3807.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/apple-icon-57x57-seochecker-manifest-3807.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/apple-icon-60x60-seochecker-manifest-3807.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/apple-icon-72x72-seochecker-manifest-3807.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/apple-icon-76x76-seochecker-manifest-3807.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/favicon-16x16-seochecker-manifest-3807.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/favicon-32x32-seochecker-manifest-3807.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/favicon-96x96-seochecker-manifest-3807.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/3.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/main.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.webmanifest" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/offline.html" beforeDir="false" afterPath="$PROJECT_DIR$/offline.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/about.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/about.kit" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.kit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prepros.config" beforeDir="false" afterPath="$PROJECT_DIR$/prepros.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/about.kit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/index.kit" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/sw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/sw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offline.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/offline.kit" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/left-aside.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/left-aside.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/sw.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/sw.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/component/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/left-aside.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/component/left-aside.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/right-aside.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/component/right-aside.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/script.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/component/script.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw.js.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +143,8 @@
       <workItem from="1646579344514" duration="11808000" />
       <workItem from="1646613998679" duration="5695000" />
       <workItem from="1646626459657" duration="14344000" />
+      <workItem from="1646761035371" duration="2840000" />
+      <workItem from="1646764808471" duration="2999000" />
     </task>
     <task id="LOCAL-00001" summary="V1">
       <created>1646590476745</created>

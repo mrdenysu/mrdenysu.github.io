@@ -2,11 +2,6 @@ document.addEventListener("DOMContentLoaded", main);
 
 /* Main */
 async function main() {
-  if (!(location.href.includes("localhost")))
-    await registerServiceWorker();
-  else
-    await unregisterServiceWorker();
-
   await menu()
   await age()
 }
@@ -18,12 +13,12 @@ async function menu() {
   })
 }
 
-
 async function age() {
   const b = document.querySelector(".age")
   if (b != null) document.querySelector(".age").textContent = `${new Date().getFullYear() - 2002}`;
 }
 
+/* Maybe soon */
 async function registerServiceWorker() {
   if ('serviceWorker' in navigator) {
     try {
