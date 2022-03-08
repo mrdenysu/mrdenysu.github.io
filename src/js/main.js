@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", main);
 
 /* Main */
 async function main() {
+  await unregisterServiceWorker()
   await menu()
   await age()
 }

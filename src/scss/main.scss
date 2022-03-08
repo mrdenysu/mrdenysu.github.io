@@ -141,6 +141,12 @@ main {
       color: $opacity-blue;
     }
   }
+
+  ul {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+  }
 }
 
 // Right aside
