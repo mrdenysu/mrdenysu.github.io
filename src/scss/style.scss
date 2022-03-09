@@ -137,6 +137,10 @@ main {
     color: $blue;
     font-style: italic;
 
+    &:visited {
+      color: $blue;
+    }
+
     &:hover {
       color: $opacity-blue;
     }
