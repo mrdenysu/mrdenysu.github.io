@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3f11bfa-b0b7-4d2e-8ba0-ace2581ecbb9" name="Changes" comment="V1.0.8">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/banner.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/component/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/component/head.html" afterDir="false" />
+    <list default="true" id="a3f11bfa-b0b7-4d2e-8ba0-ace2581ecbb9" name="Changes" comment="V1.1 - add view vars">
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offline.html" beforeDir="false" afterPath="$PROJECT_DIR$/offline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/offline.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/offline.kit" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +95,7 @@
       <workItem from="1646761035371" duration="2840000" />
       <workItem from="1646764808471" duration="5181000" />
       <workItem from="1646793872023" duration="1390000" />
-      <workItem from="1646798766308" duration="1085000" />
+      <workItem from="1646798766308" duration="1476000" />
     </task>
     <task id="LOCAL-00001" summary="V1">
       <created>1646590476745</created>
@@ -145,7 +146,21 @@
       <option name="project" value="LOCAL" />
       <updated>1646799462909</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="V1.0.9">
+      <created>1646799884580</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1646799884580</updated>
+    </task>
+    <task id="LOCAL-00009" summary="V1.1 - add view vars">
+      <created>1646800173937</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1646800173937</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +185,9 @@
     <MESSAGE value="V1.0.6" />
     <MESSAGE value="V1.0.7" />
     <MESSAGE value="V1.0.8" />
-    <option name="LAST_COMMIT_MESSAGE" value="V1.0.8" />
+    <MESSAGE value="V1.0.9" />
+    <MESSAGE value="V1.1 - add view vars" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1.1 - add view vars" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
