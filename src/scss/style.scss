@@ -162,15 +162,20 @@ main {
   table {
     width: 100%;
     border-collapse: collapse;
-    text-align: left;
 
     td, th {
       padding: .75rem;
-      vertical-align: top;
+      vertical-align: center;
       border-bottom: 1px solid $opacity-black;
+      border-right: 1px solid $opacity-black;
       overflow-wrap: break-word;
       word-wrap: break-word;
       hyphens: auto;
+    }
+
+    tr > td:nth-last-child(odd) {
+      width: 100px;
+      text-align: center;
     }
 
     tbody tr:hover {
