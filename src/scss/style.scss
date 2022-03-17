@@ -29,8 +29,21 @@ html, body {
 
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.75em;
+  margin-top: 1em;
   letter-spacing: 1px;
   font-weight: bold;
+}
+
+h1 {
+  font-size: 21px;
+}
+
+h2 {
+  font-size: 17px;
+}
+
+h3 {
+  font-size: 16px;
 }
 
 p {
@@ -46,23 +59,27 @@ p {
   height: max-content;
 }
 
+.left-aside, .right-aside {
+  flex: 1 0 150px;
+}
+
 // Left aside
 .left-aside {
-  width: 100%;
+  width: 320px;
   background: url("/assets/img/3.webp") center no-repeat;
   background-size: cover;
 }
 
 .navbar {
   background-color: $dirty-opacity-black;
-  backdrop-filter: blur(25px);
+  backdrop-filter: blur(5px);
   width: 320px;
   height: 100%;
   float: right;
   padding: 32px 0;
   text-align: center;
   color: $white;
-  position: relative;
+  position: fixed;
 
   &-menu {
     margin: 32px 0;
@@ -128,9 +145,7 @@ p {
 // Content
 main {
   background-color: $white;
-  min-width: 500px;
-  max-width: 800px;
-  width: 100%;
+  width: calc(100% - 640px);
   padding: 24px 32px 32px;
 
   a {
@@ -188,17 +203,18 @@ main {
 
 // Right aside
 .right-aside {
-  width: 100%;
+  max-width: 320px;
 }
 
 // Tablet
-@media screen and (max-width: 840px) {
+@media screen and (max-width: 1200px) {
   .container {
     flex-direction: column;
   }
 
   .navbar {
     width: 100%;
+    position: relative;
 
     &-menu {
       margin: 32px 10px;
@@ -211,18 +227,23 @@ main {
     margin-top: 0;
   }
 
+  .left-aside {
+    width: 100%;
+  }
+
   main {
     overflow-y: unset;
     height: max-content;
     min-width: 100%;
   }
 
+
   .right-aside {
     display: none;
   }
 }
 
-@media screen and (min-width: 841px) {
+@media screen and (min-width: 1200px) {
   main {
     box-shadow: 0 6px 12px $opacity-black;
   }
